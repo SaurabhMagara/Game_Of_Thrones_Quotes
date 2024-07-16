@@ -35,11 +35,11 @@ const App = () => {
         </div>
         <div className=" p-4 m-4 flex justify-center items-center sm:p-5">
           <p className=" text-stone-300 text-justify text-xl sm:text-2xl sm:w-2/4">
-            Its a simple webpage for generating famous{" "}
+            Its a simple webpage for generating famous tv series{" "}
             <span className="font-semibold text-orange-300">
               Game of thrones{" "}
             </span>
-            quotes.It shows quote, who said it and their house.
+            quotes.It shows quote, which character said it and character's house.
           </p>
         </div>
 
